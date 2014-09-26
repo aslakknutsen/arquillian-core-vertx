@@ -1,0 +1,3 @@
+{
+	"main": "org.arquillian.vertx.test.modulex.ModuleXExtension"
+}
